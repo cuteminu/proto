@@ -31,3 +31,5 @@ if (Connect(connect)) :
 
 elif (not Connect(connect)) :
     print("Bye")
+
+this is not mine haha
